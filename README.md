@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rafaeisso
 - 👀 I’m interested in Game Design and Digital Marketing
-- 🌱 I’m currently learning Digital Marketing
-- 💞️ I’m looking to collaborate on Programing, Digital Marketing and Game Design
+- 🌱 I’m currently learning Digital Marketing and Marketing for Games
+- 💞️ I’m looking to collaborate on Digital Marketing, Game Design and Gamedev
 - 📫 How to reach me rafaelgraciola@hotmail.com
 
 <!---
